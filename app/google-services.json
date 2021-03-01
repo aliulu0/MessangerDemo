@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4007687713",
+    "firebase_url": "https://messengerdemo-e9a53-default-rtdb.firebaseio.com",
+    "project_id": "messengerdemo-e9a53",
+    "storage_bucket": "messengerdemo-e9a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4007687713:android:5ad1ff811de8b98cbb5560",
+        "android_client_info": {
+          "package_name": "com.example.messengerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4007687713-rjsgu2t1c84hk392s17caq5ipjvmnek2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "<kendi api keyinizi giriniz"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4007687713-rjsgu2t1c84hk392s17caq5ipjvmnek2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
